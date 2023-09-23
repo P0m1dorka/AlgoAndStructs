@@ -1,0 +1,15 @@
+D:\AlgosAndStructs\Console\bin\Debug\net7.0\Console.exe
+D:\AlgosAndStructs\Console\bin\Debug\net7.0\Console.deps.json
+D:\AlgosAndStructs\Console\bin\Debug\net7.0\Console.runtimeconfig.json
+D:\AlgosAndStructs\Console\bin\Debug\net7.0\Console.dll
+D:\AlgosAndStructs\Console\bin\Debug\net7.0\Console.pdb
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\Console.csproj.AssemblyReference.cache
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\Console.AssemblyInfoInputs.cache
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\Console.AssemblyInfo.cs
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\Console.csproj.CoreCompileInputs.cache
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\Console.dll
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\refint\Console.dll
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\Console.pdb
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\Console.genruntimeconfig.cache
+D:\AlgosAndStructs\Console\obj\Debug\net7.0\ref\Console.dll
